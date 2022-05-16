@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-<img src="https://user-images.githubusercontent.com/12158468/124331701-9034b600-dbb1-11eb-9507-bbe6420aa567.gif" width="375" height="667"/>
+<img src="https://user-images.githubusercontent.com/12158468/124331701-9034b600-dbb1-11eb-9507-bbe6420aa567.gif" width="400" height="700"/>
 
 This project is a starting point for a Flutter application.
 
